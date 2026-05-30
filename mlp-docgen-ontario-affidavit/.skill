@@ -1,0 +1,28 @@
+{
+  "name": "mlp-docgen-ontario-affidavit",
+  "_copyright": "© 2026 Lawtrepreneur Inc. Licensed under CC BY-NC 4.0 — see LICENSE file for details. All rights reserved.",
+  "displayName": "Ontario Affidavit Generator with AI-Ism Detection",
+  "version": "1.0.0",
+  "description": "Generate court-ready Ontario affidavits from fact summaries with automatic AI writing pattern detection and removal. Converts organized facts into sworn statements with placeholders, role-based terminology, defined terms in Bold Title Case, and legal sufficiency—all in compliance with Ontario Rules of Civil Procedure. Affirm is the default oath clause.",
+  "author": "Lawtrepreneur Inc.",
+  "license": "CC BY-NC 4.0",
+  "category": "Legal",
+  "tags": ["Ontario", "affidavit", "legal-document", "sworn-statement", "AI-ism-detection", "sensitive-data-protection"],
+  "framework": "BRAWSA",
+  "modes": ["detect", "generate"],
+  "features": [
+    "Ontario Rules of Civil Procedure compliance",
+    "Role-based terminology",
+    "Sensitive data protection via placeholders",
+    "Defined terms in Bold Title Case on first use",
+    "AI writing pattern detection and removal",
+    "Affirm as default oath clause (swear available as alternative)",
+    "Placeholder reference key generation",
+    "File upload support",
+    "Detect mode for user approval",
+    "Generate mode for direct production"
+  ],
+  "jurisdiction": "Ontario (Canada)",
+  "oathClause": "Affirm (default) or Swear (alternative)",
+  "disclaimer": "Not a substitute for professional legal representation. Review by counsel required before filing."
+}
