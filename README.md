@@ -48,16 +48,6 @@ A curated collection of skills for [opencode](https://opencode.ai)-compatible AI
 | Skill | Description | License |
 |---|---|---|
 | [rhh-content-planner](./rhh-content-planner) | Plan, draft, and assess Substack posts using the BRAWSA methodology and a two-format post template | — |
-| [substack-launch-strategy](./substack-launch-strategy) | Build, execute, and track a Substack launch strategy with a session-aware, file-backed system | — |
-| [ll-curriculum-arc-reviewer](./ll-curriculum-arc-reviewer) | Review, generate, and QA Lemonade Literacy lesson arc content for Substack publication | — |
-
-### Business Operations
-
-| Skill | Description | License |
-|---|---|---|
-| [paperclip-ceo-brief](./paperclip-ceo-brief) | Structured CEO Session Brief template for kicking off an AI CEO agent session | — |
-| [paperclip-copilot](./paperclip-copilot) | Co-pilot for interfacing with AI CEOs and sub-agents across multiple businesses | — |
-| [paperclip-task-brief](./paperclip-task-brief) | Atomic task instruction template for Paperclip sub-agents | — |
 
 ### Strategy & Analysis
 
