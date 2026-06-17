@@ -43,12 +43,6 @@ A curated collection of skills for [opencode](https://opencode.ai)-compatible AI
 |---|---|---|
 | [mlp-docgen-ontario-affidavit](./mlp-docgen-ontario-affidavit) | Generate court-ready Ontario affidavits from fact summaries with automatic AI writing pattern detection | CC BY-NC 4.0 |
 
-### Content & Publishing
-
-| Skill | Description | License |
-|---|---|---|
-| [rhh-content-planner](./rhh-content-planner) | Plan, draft, and assess Substack posts using the BRAWSA methodology and a two-format post template | — |
-
 ### Strategy & Analysis
 
 | Skill | Description | License |
